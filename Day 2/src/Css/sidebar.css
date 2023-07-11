@@ -1,0 +1,12 @@
+.sideBar{
+    padding-top: 100px;
+    background-color: white;
+    /* opacity: 50%; */
+    height:100vh;
+    width: 20vw;
+}
+.Sideitem{
+    color:black !important;
+    width:100%;
+    z-index:1000;
+}
