@@ -1,0 +1,14 @@
+.Profile_box{
+    position: fixed;
+    padding-top: 70px;
+    background-color: white;
+    color:blue;
+    right:0;
+    left:auto;
+    z-index:1000;
+}
+.Profile_box_name{
+    width: 10vw;
+    color: black !important;
+    border-bottom: 2px solid black !important;
+}

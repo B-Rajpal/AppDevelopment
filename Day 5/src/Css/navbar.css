@@ -1,0 +1,23 @@
+.NavBar{
+    background-color: rgb(26, 1, 72) !important;
+    opacity: 80%;
+}
+
+.Account{
+    margin-left: 68vw;
+}
+
+.menu{
+    color: white !important;
+}
+
+Button{
+    color:white !important;
+}
+.nav:hover{
+    background-color: white !important;
+    color:rgb(26, 1, 72) !important;
+}
+.navigation{
+    position: absolute;
+}
