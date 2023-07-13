@@ -1,0 +1,15 @@
+.Mobile_deposit_container{
+    background-image: url("../Images/Tranaction.jpg");
+    background-size: cover;
+    height:90vh;
+}
+
+.Mobile_deposit{
+    float:left;
+}
+.transaction_div_container{
+    padding:20vh 0 0 30vw;
+}
+.button_transaction{
+    margin-left: 20% !important;
+}

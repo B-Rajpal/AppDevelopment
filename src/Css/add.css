@@ -1,0 +1,13 @@
+.create_container{
+    background-image: url("../Images/add.png");
+    background-size: cover;
+    height:100vh;
+   
+}
+
+.create{
+    float:left;
+}
+.create_div_container{
+    padding:20vh 0 0 30vw;
+}
