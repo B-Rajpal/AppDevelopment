@@ -1,0 +1,18 @@
+.transaction_container{
+    background-image: url("../Images/Tranaction.jpg");
+    background-size: cover;
+    height:90vh;
+}
+
+.transaction{
+    float:left;
+}
+.transaction_div_container{
+    padding:20vh 0 0 30vw;
+}
+.button_transaction{
+    margin-left: 20% !important;
+}
+.form_2{
+    background-color: rgb(2, 2, 56) !important;
+}
