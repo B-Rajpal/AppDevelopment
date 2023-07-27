@@ -1,0 +1,36 @@
+.transaction-history {
+    background-color:skyblue;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    color:white;
+    background-color: #082165;
+  }
+  tr:hover {
+    background-color: #e9e9e9;
+  }
+  h2{
+    color:rgb(8, 8, 60);
+  }
+  .history{
+    height:100vh;
+    background-color: #082165;
+  }
+  .history_container{
+    margin-top: 9vh;
+  }

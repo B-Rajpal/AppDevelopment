@@ -1,0 +1,31 @@
+.transaction_container{
+    background-color: rgb(8, 8, 60);
+    background-size: cover;
+    height:90vh;
+}
+
+.transaction{
+    float:right;
+}
+.transaction_div_container{
+    padding:20vh 10vw 0 10vw;
+}
+.button_transaction{
+    margin-left: 20% !important;
+}
+.form_2{
+    background-color: rgb(2, 2, 56) !important;
+}
+.transaction_content{
+    padding: 30vh 0 0 8vw;
+    float:left;
+}
+.money{
+    color:skyblue !important;
+    font-size: 40px;
+}
+.money_h4
+{
+    font-size: 20px;
+    color: white;
+}

@@ -1,0 +1,29 @@
+.contact_container{
+    flex-basis: 25%;
+    margin:0 auto;
+    background-color: rgb(4, 4, 103);
+    padding:30px;
+    height:23vh;
+    font-variant: small-caps;
+}
+.contact_us{
+    padding-right:50px;
+    float: left;
+    margin-left: 35%;
+}
+.heading{
+    padding: 10px;
+    margin:0 auto !important;
+    color: skyblue !important;
+}
+.content{
+    color:white;
+}
+.Services{
+    padding-right:50px;
+}
+.Support{
+    margin-right:33%;
+    margin-top:-5.5%;
+    float:right;
+}

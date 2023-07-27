@@ -1,0 +1,45 @@
+.account{
+    background-color: rgb(8, 8, 60);
+    height:100vh;
+}
+.account_profile{
+    padding:20px;
+    margin: 30vh 0 0 12vw;
+    height:47vh;
+    width:27vw;
+    border:2px solid white;
+    float:left;
+}
+.bank_details{
+    padding:20px;
+    margin: 30vh 12vw 0 10vw;
+    height:17vh;
+    width:27vw;
+    border:2px solid white;
+    float:right;
+}
+.contact_details{
+    padding:20px;
+    margin: 5vh 12vw 0 10vw;
+    height:17vh;
+    width:27vw;
+    border:2px solid white;
+    float:right;
+}
+.h1{
+    font-size: 20px;
+    color:skyblue;
+}
+.span{
+    font-size: 25px;
+    color:white;
+}
+.profile_photo{
+    margin-left:40%;
+    margin-bottom: 10%;
+    background-image: url('../Images/accountprofile.png');
+    background-size: cover;
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+}

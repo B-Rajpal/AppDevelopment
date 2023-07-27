@@ -1,0 +1,22 @@
+.create_container{
+    background-color:  rgb(8, 8, 60);
+    background-size: cover;
+    height:100vh;
+   
+}
+.create_div_container{
+    padding:20vh 10vw 0 50vw;
+}
+.create_account_content{
+    padding: 30vh 0 0 8vw;
+    float:left;
+}
+.add{
+    color:skyblue !important;
+    font-size: 40px;
+}
+.add_h4
+{
+    color:white;
+    font-size: 20px;
+}

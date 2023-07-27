@@ -1,0 +1,16 @@
+.Mobile_deposit_container{
+    width:100%;
+    background-color:  rgb(8, 8, 60);
+    background-size: cover;
+    height:100vh;
+}
+
+.Mobile_deposit{
+    float:left;
+}
+.Mobile{
+    padding:20vh 0 0 30vw;
+}
+.button_transaction{
+    margin-left: 20% !important;
+}
